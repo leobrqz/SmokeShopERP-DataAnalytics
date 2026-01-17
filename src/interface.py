@@ -3,7 +3,6 @@ from PyQt6.QtWidgets import (
     QMessageBox, QDialog, QDialogButtonBox, QStackedWidget,
     QLineEdit, QFormLayout, QApplication
 )
-from PyQt6.QtCore import Qt
 from PyQt6.QtGui import QFont, QPalette, QColor
 from database import Database
 from gestao import GestaoWidget
