@@ -1,0 +1,8 @@
+.env
+
+__pycache__
+
+build_exe.sh
+build
+dist
+
