@@ -6,7 +6,6 @@ Sistema desktop desenvolvido em Python para auxiliar na gestão e visualização
 
 - **PyQt6**: Framework para interface gráfica desktop
 - **PostgreSQL**: Banco de dados relacional
-- **Psycopg2**: Driver para conexão com PostgreSQL
 - **Matplotlib**: Biblioteca para criação de visualizações gráficas
 - **NumPy**: Cálculos numéricos e análises estatísticas
 
@@ -19,7 +18,12 @@ Sistema desktop desenvolvido em Python para auxiliar na gestão e visualização
 - Suportar conexão com banco de dados PostgreSQL
 
 
-## Funcionalidades Principais
+## Funcionalidades
+
+<div align="center">
+  <img src="imgs/gestao.png" alt="Dashboard" width="48%">
+  <img src="imgs/dashboard.png" alt="Gestão" width="48%">
+</div>
 
 ### 🎨 Interface
 
