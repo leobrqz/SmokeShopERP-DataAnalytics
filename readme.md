@@ -1,6 +1,11 @@
-# SmokeShopERP - Sistema de Gestão e Análise de Dados para Tabacaria
+<div align="center">
+
+# SmokeShopERP  
+### Sistema de Gestão e Análise de Dados para Tabacaria
+</div>
 
 Sistema desktop desenvolvido em Python para auxiliar na gestão e visualização de análises de dados relevantes para o negócio. O software oferece uma interface intuitiva para gerenciar produtos, vendas e clientes, além de fornecer análises detalhadas que auxiliam na tomada de decisões estratégicas.
+
 
 ## 🛠️ Stack
 
